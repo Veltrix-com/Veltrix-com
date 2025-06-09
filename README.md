@@ -52,7 +52,6 @@ I'm an 18-year-old cybersecurity builder based in India, focused on engineering 
 
 - ✅ High-precision packet sniffer with keyword filtering
 - 🚧 Modular web vulnerability scanner (architecture phase)
-- ✅ Client-requested IndiaMART lead scraper (data extraction)
 
 ---
 
