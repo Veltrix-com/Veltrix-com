@@ -8,25 +8,32 @@ I'm an 18-year-old cybersecurity builder based in India, focused on engineering 
 
 ---
 
-## ⚒️ Current Focus
+## ⚒️ Core Focus
 
 - **Veltrix Vulnerability Scanner**  
-  Architecting a modular, precision-focused scanner that combines packet capture, service fingerprinting, misconfiguration analysis, and web vulnerability detection.
+  Architecting a modular, precision-first scanner combining packet capture, protocol/service fingerprinting, misconfiguration analysis, and web-layer vulnerability discovery.
 
-- **Client-Centric Security Tools**  
-  Creating tools that deliver direct business value—custom scrapers, credential leakage monitors, and lightweight reconnaissance utilities.
+- **Client-Driven Security Utilities**  
+  Delivering practical tools with measurable impact—credential leak monitors, custom scrapers, and streamlined reconnaissance modules.
 
-- **Security Engineering with Standards**  
-  Perfection here is non-negotiable. I’m committed to building tools that are not just functional, but resilient, auditable, and accurate under pressure.
+- **Engineering for Auditability**  
+  Every line is built to be reliable, testable, and correct under stress. Functionality is mandatory; resilience is the standard.
 
 ---
 
 ## 🧠 Operating Philosophy
 
-- **Precision is Power**: In security, details aren't optional—they're everything.
-- **Brutal Clarity**: I don’t romanticize progress. It’s either done right or it’s not done.
-- **Perfection as Reliability**: I define perfection as consistent, testable, and correct behavior—not polish.
-- **Client Value > Code Beauty**: Visuals come second. Insight and protection come first.
+- **Precision Is Non-Negotiable**  
+  Security isn’t forgiving. Every detail is deliberate and validated.
+
+- **Brutal Clarity Over Progress Theater**  
+  Work is either done right or it’s not done. No in-betweens.
+
+- **Perfection = Predictability**  
+  Perfection means consistent, testable, and verifiable behavior. Not gloss.
+
+- **Impact > Aesthetics**  
+  Code beauty is irrelevant if it doesn't protect. Output must serve real security needs.
 
 ---
 
