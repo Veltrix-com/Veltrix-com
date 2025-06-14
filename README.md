@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Security Engineer • Python • Vulnerability Research
+### Security Engineer • Python • Vulnerability Research
 - Crafting precision security tools—from packet capture to web vuln detection. Open to collaboration & new challenges.
 
 > **Mission**: Build India's most technically rigorous and operationally elite Blue Team operation—starting from zero.
