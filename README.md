@@ -2,7 +2,8 @@
 
 ## 👤 About Me
 
-I'm an 18-year-old cybersecurity builder based in India, focused on engineering **Veltrix**—a full-stack vulnerability assessment and threat analysis platform. My foundation in combat sports instills an uncompromising discipline in execution, and I bring the same intensity to security development.
+Security Engineer • Python • Vulnerability Research
+Crafting precision security tools—from packet capture to web vuln detection. Open to collaboration & new challenges.
 
 > **Mission**: Build India's most technically rigorous and operationally elite Blue Team operation—starting from zero.
 
